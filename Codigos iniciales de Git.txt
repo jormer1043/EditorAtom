@@ -17,5 +17,5 @@ git remote -v # permite visualizar las creaciones remotas activas
 git remote remove nombre_remoto_nuevo # elimina el repositorio remoto que se especifique, también puede usar rm en vez de remove.
 git push -u nombre_remoto_nuevo nombre_del_branch # este envía a nuestro repositorio remoto el contenido que se encuentra en nuestro repositorio local.
 git commit --amend # me abre el editor por defecto para modificar la descripcion dada.
-
+git 
 Ing. Jormer Bermúdez Quintero
